@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local runtime databases
+feedback.db
+
+venv/
